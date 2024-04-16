@@ -1,0 +1,10 @@
+[font]
+size=20
+[font.normal]
+family = "Sarasa Fixed HC Nerd Font"
+style = "Regular"
+[window]
+opacity=0.80
+blur=false
+startup_mode="Maximized"
+option_as_alt = "OnlyLeft"
