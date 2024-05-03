@@ -4,7 +4,12 @@ size=20
 family = "Sarasa Fixed HC Nerd Font"
 style = "Regular"
 [window]
-opacity=0.80
-blur=false
+opacity=0.70
+blur=true
 startup_mode="Maximized"
 option_as_alt = "OnlyLeft"
+# environment variables 
+[env]
+HOMEBREW_NO_AUTO_UPDATE="1"
+HOMEBREW_NO_ENV_HINTS = "1"
+NODE_OPTIONS="--openssl-legacy-provider"
